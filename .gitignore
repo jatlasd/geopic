@@ -1,0 +1,6 @@
+.geo/
+.venv/
+__pycache__/
+*.pyc
+/phase-1/photos/
+/phase-1/proposed-chain.png

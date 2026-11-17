@@ -1,0 +1,22 @@
+{
+  "P01": {
+    "place": "Grant Avenue at Washington Street",
+    "center": [37.795162, -122.406532],
+    "source": "https://opensfhistory.org/Display/wnp27.3005.jpg"
+  },
+  "P02": {
+    "place": "Washington Street at Grant Avenue",
+    "center": [37.795193, -122.406555],
+    "source": "https://opensfhistory.org/Display/wnp25.4682.jpg"
+  },
+  "P03": {
+    "place": "Sacramento Street near Waverly Place",
+    "center": [37.793282, -122.406967],
+    "source": "https://opensfhistory.org/Display/wnp60.0064.jpg"
+  },
+  "P04": {
+    "place": "Clay Street at Grant Avenue",
+    "center": [37.794235, -122.406219],
+    "source": "https://opensfhistory.org/Display/wnp27.50040.jpg"
+  }
+}

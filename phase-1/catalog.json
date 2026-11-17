@@ -1,0 +1,434 @@
+[
+  {
+    "id": "P01",
+    "role": "Seed",
+    "date": "1947",
+    "view": "Grant Avenue at Washington Street, looking north",
+    "location_precision": "street or intersection",
+    "archive_pin_wgs84": [
+      37.795162,
+      -122.406532
+    ],
+    "evidence": "Both Washington corner buildings bracket the view. The horizontal brick recesses wrap the northeast corner at 900 Grant and continue on its Washington Street face. The 901 Grant canopy is visible on the left.",
+    "source": "https://opensfhistory.org/Display/wnp27.3005.jpg",
+    "scan": "https://opensfhistory.org/Download/wnp27.3005.jpg",
+    "credit": "OpenSFHistory/wnp27.3005 · Photographer Unknown  (Courtesy of a Private Collector)",
+    "file": "photos/P01.jpg",
+    "width": 1000,
+    "height": 628
+  },
+  {
+    "id": "P02",
+    "role": "Seed",
+    "date": "Sep 1965",
+    "view": "Washington Street at Grant Avenue, looking northwest",
+    "location_precision": "street or intersection",
+    "archive_pin_wgs84": [
+      37.795193,
+      -122.406555
+    ],
+    "evidence": "People and sailors outside 901 Grant. The wraparound awning and upper sash windows identify the northwest corner building.",
+    "source": "https://opensfhistory.org/Display/wnp25.4682.jpg",
+    "scan": "https://opensfhistory.org/Download/wnp25.4682.jpg",
+    "credit": "OpenSFHistory/wnp25.4682 · Photographer Unknown  (Courtesy of a Private Collector)",
+    "file": "photos/P02.jpg",
+    "width": 1000,
+    "height": 632
+  },
+  {
+    "id": "P03",
+    "role": "Seed",
+    "date": "Feb 11, 1910",
+    "view": "Sacramento Street just uphill of Waverly Place, looking east",
+    "location_precision": "street or intersection",
+    "archive_pin_wgs84": [
+      37.793282,
+      -122.406967
+    ],
+    "evidence": "The First Chinese Baptist Church at far left has a rough-brick wall and pointed openings. The corner shop across Waverly has a banded cornice and squared windows.",
+    "source": "https://opensfhistory.org/Display/wnp60.0064.jpg",
+    "scan": "https://opensfhistory.org/Download/wnp60.0064.jpg",
+    "credit": "OpenSFHistory/wnp60.0064 · John Henry Mentz, United Railroads  (McCormick Collection)",
+    "file": "photos/P03.jpg",
+    "width": 1000,
+    "height": 759
+  },
+  {
+    "id": "P04",
+    "role": "Seed",
+    "date": "1937",
+    "view": "Clay Street at Grant Avenue, looking west",
+    "location_precision": "street or intersection",
+    "archive_pin_wgs84": [
+      37.794235,
+      -122.406219
+    ],
+    "evidence": "The cable car is the foreground subject. The Soo Yuen building at 801 Grant is on the right, with square upper windows and a canopy wrapping the corner.",
+    "source": "https://opensfhistory.org/Display/wnp27.50040.jpg",
+    "scan": "https://opensfhistory.org/Download/wnp27.50040.jpg",
+    "credit": "OpenSFHistory/wnp27.50040 · Waldemar Sievers  (Courtesy of a Private Collector)",
+    "file": "photos/P04.jpg",
+    "width": 1000,
+    "height": 681
+  },
+  {
+    "id": "P05",
+    "role": "East bridge",
+    "date": "circa 1969",
+    "view": "Washington Street at Grant Avenue, looking east",
+    "location_precision": "street or intersection",
+    "archive_pin_wgs84": [
+      37.795139,
+      -122.406502
+    ],
+    "evidence": "The banded northeast corner building is at far left. Further down the north sidewalk, the 744 Washington corner has a projecting cornice and a tall arched window. The catalog says “east down Grant.” The street layout, storefront sequence and archive pin place the sightline east along Washington.",
+    "source": "https://opensfhistory.org/Display/wnp28.1753.jpg",
+    "scan": "https://opensfhistory.org/Download/wnp28.1753.jpg",
+    "credit": "OpenSFHistory/wnp28.1753 · Photographer Unknown  (Courtesy of a Private Collector)",
+    "file": "photos/P05.jpg",
+    "width": 1000,
+    "height": 993
+  },
+  {
+    "id": "P06",
+    "role": "East holdout",
+    "date": "1959",
+    "view": "Washington Street at Wentworth Place, looking east",
+    "location_precision": "street or intersection",
+    "archive_pin_wgs84": [
+      37.795231,
+      -122.406044
+    ],
+    "evidence": "The old Sun Hung Heung building at 744 Washington is large at left. The Wentworth street sign, cornice, window stack and balcony confirm the corner. The camera is downhill of the Grant intersection.",
+    "source": "https://opensfhistory.org/Display/wnp14.4655.jpg",
+    "scan": "https://opensfhistory.org/Download/wnp14.4655.jpg",
+    "credit": "OpenSFHistory/wnp14.4655 · Photographer Unknown  (Courtesy of a Private Collector)",
+    "file": "photos/P06.jpg",
+    "width": 692,
+    "height": 1000
+  },
+  {
+    "id": "P07",
+    "role": "East supporting view",
+    "date": "circa 1948",
+    "view": "Washington Street at Grant Avenue, looking east",
+    "location_precision": "street or intersection",
+    "archive_pin_wgs84": [
+      37.795147,
+      -122.406502
+    ],
+    "evidence": "Low street-level view of the same downhill route in 1948. The older vertical Sun Hung Heung sign and the U.S. Appraisers Building provide a cross-check on the eastward sightline.",
+    "source": "https://opensfhistory.org/Display/wnp14.11971.jpg",
+    "scan": "https://opensfhistory.org/Download/wnp14.11971.jpg",
+    "credit": "OpenSFHistory/wnp14.11971 · Photographer Unknown  (Courtesy of a Private Collector)",
+    "file": "photos/P07.jpg",
+    "width": 711,
+    "height": 1000
+  },
+  {
+    "id": "P08",
+    "role": "West bridge candidate",
+    "date": "Aug 15, 1949",
+    "view": "Washington Street at Grant Avenue, looking west-northwest",
+    "location_precision": "street or intersection",
+    "archive_pin_wgs84": [
+      37.795143,
+      -122.406487
+    ],
+    "evidence": "The northwest corner brick wall and canopy are clipped at right. Farther uphill on the same side, the stacked balconies and decorated roof of the 834 Washington building rise above the storefronts.",
+    "source": "https://opensfhistory.org/Display/wnp27.0850.jpg",
+    "scan": "https://opensfhistory.org/Download/wnp27.0850.jpg",
+    "credit": "OpenSFHistory/wnp27.0850 · Photographer Unknown  (Courtesy of a Private Collector)",
+    "file": "photos/P08.jpg",
+    "width": 1000,
+    "height": 667
+  },
+  {
+    "id": "P09",
+    "role": "West holdout candidate",
+    "date": "Sep 1973",
+    "view": "Washington Street near Waverly Place, looking west",
+    "location_precision": "street or intersection",
+    "archive_pin_wgs84": [
+      37.795197,
+      -122.405838
+    ],
+    "evidence": "The ornate building beyond the Universal Café carries the same projecting roof and balconies as P08. The view is tight on the uphill storefronts. The catalog describes a view from Grant, but the pin is east of Grant. The depicted block is the ground truth for this image.",
+    "source": "https://opensfhistory.org/Display/wnp25.5417.jpg",
+    "scan": "https://opensfhistory.org/Download/wnp25.5417.jpg",
+    "credit": "OpenSFHistory/wnp25.5417 · Photographer Unknown  (Courtesy of a Private Collector)",
+    "file": "photos/P09.jpg",
+    "width": 699,
+    "height": 1000
+  },
+  {
+    "id": "P10",
+    "role": "West supporting view",
+    "date": "1960",
+    "view": "Washington Street at Spofford Street, looking east",
+    "location_precision": "street or intersection",
+    "archive_pin_wgs84": [
+      37.795017,
+      -122.407524
+    ],
+    "evidence": "A reverse view of the north row shows the back edge of the projecting roof at 834 Washington and the Universal Café at 824 Washington. The archive names multiple storefront addresses.",
+    "source": "https://opensfhistory.org/Display/wnp14.10487.jpg",
+    "scan": "https://opensfhistory.org/Download/wnp14.10487.jpg",
+    "credit": "OpenSFHistory/wnp14.10487 · Photographer Unknown  (Courtesy of a Private Collector)",
+    "file": "photos/P10.jpg",
+    "width": 654,
+    "height": 1000
+  },
+  {
+    "id": "P11",
+    "role": "Direct match",
+    "date": "circa 1955",
+    "view": "Grant Avenue at Washington Street, looking north",
+    "location_precision": "street or intersection",
+    "archive_pin_wgs84": [
+      37.795135,
+      -122.406479
+    ],
+    "evidence": "The northeast corner at 900 Grant occupies the upper right. The banded brick and The Art Co. sign recur from P01 in an oblique color view.",
+    "source": "https://opensfhistory.org/Display/wnp25.1955.jpg",
+    "scan": "https://opensfhistory.org/Download/wnp25.1955.jpg",
+    "credit": "OpenSFHistory/wnp25.1955 · Photographer Unknown  (Courtesy of a Private Collector)",
+    "file": "photos/P11.jpg",
+    "width": 1000,
+    "height": 695
+  },
+  {
+    "id": "P12",
+    "role": "Direct match",
+    "date": "circa 1969",
+    "view": "Grant Avenue at Washington Street, looking north",
+    "location_precision": "street or intersection",
+    "archive_pin_wgs84": [
+      37.795135,
+      -122.406487
+    ],
+    "evidence": "The pedestrian and hand truck dominate the scene. Behind them, the northeast corner’s distinctive banded brick and The Art Co. sign recur from P01.",
+    "source": "https://opensfhistory.org/Display/wnp28.1752.jpg",
+    "scan": "https://opensfhistory.org/Download/wnp28.1752.jpg",
+    "credit": "OpenSFHistory/wnp28.1752 · Photographer Unknown  (Courtesy of a Private Collector)",
+    "file": "photos/P12.jpg",
+    "width": 1000,
+    "height": 993
+  },
+  {
+    "id": "P13",
+    "role": "Direct match",
+    "date": "circa 1939",
+    "view": "Sacramento Street just uphill of Waverly Place, looking east",
+    "location_precision": "street or intersection",
+    "archive_pin_wgs84": [
+      37.793274,
+      -122.407066
+    ],
+    "evidence": "The corner shop to the left retains the windows and cornice visible in P03, with Salvation Army signage. The church’s coarse masonry appears at the far left.",
+    "source": "https://opensfhistory.org/Display/wnp27.50182.jpg",
+    "scan": "https://opensfhistory.org/Download/wnp27.50182.jpg",
+    "credit": "OpenSFHistory/wnp27.50182 · Waldemar Sievers  (Courtesy of a Private Collector)",
+    "file": "photos/P13.jpg",
+    "width": 1000,
+    "height": 667
+  },
+  {
+    "id": "P14",
+    "role": "Direct match",
+    "date": "Jul 21, 1960",
+    "view": "Sacramento Street between Waverly Place and Grant Avenue, looking northwest",
+    "location_precision": "street or intersection",
+    "archive_pin_wgs84": [
+      37.793365,
+      -122.406395
+    ],
+    "evidence": "Street work fills the foreground. The rough-brick church on the far side of Waverly and its tall pointed windows are visible from the reverse direction.",
+    "source": "https://opensfhistory.org/Display/wnp27.5192.jpg",
+    "scan": "https://opensfhistory.org/Download/wnp27.5192.jpg",
+    "credit": "OpenSFHistory/wnp27.5192 · Photographer Unknown  (Courtesy of a Private Collector)",
+    "file": "photos/P14.jpg",
+    "width": 1000,
+    "height": 570
+  },
+  {
+    "id": "P15",
+    "role": "Direct match",
+    "date": "Sep 1959",
+    "view": "Grant Avenue at Clay Street, looking north",
+    "location_precision": "street or intersection",
+    "archive_pin_wgs84": [
+      37.794178,
+      -122.406311
+    ],
+    "evidence": "Compare the left corner’s canopy, window bays and projection toward Clay with P04. The storefront signage changed to Empress Fine Arts.",
+    "source": "https://opensfhistory.org/Display/wnp25.1167.jpg",
+    "scan": "https://opensfhistory.org/Download/wnp25.1167.jpg",
+    "credit": "OpenSFHistory/wnp25.1167 · Photographer Unknown  (Courtesy of a Private Collector)",
+    "file": "photos/P15.jpg",
+    "width": 1000,
+    "height": 664
+  },
+  {
+    "id": "P16",
+    "role": "Clay comparison",
+    "date": "Jul 29, 1921",
+    "view": "Clay Street between Grant Avenue and Waverly Place, looking west",
+    "location_precision": "street or intersection",
+    "archive_pin_wgs84": [
+      37.794231,
+      -122.406662
+    ],
+    "evidence": "The archive’s DPW negative identifies this block in its edge inscription. Compare the sequence of brick façades with P04 after checking intervening alterations.",
+    "source": "https://opensfhistory.org/Display/wnp36.02584.jpg",
+    "scan": "https://opensfhistory.org/Download/wnp36.02584.jpg",
+    "credit": "OpenSFHistory/wnp36.02584 · DPW Horace Chaffee  (SF Department of Public Works / Courtesy of a Private Collector)",
+    "file": "photos/P16.jpg",
+    "width": 1000,
+    "height": 701
+  },
+  {
+    "id": "P17",
+    "role": "Clay comparison",
+    "date": "circa 1954",
+    "view": "Clay Street just uphill of Waverly Place, looking east",
+    "location_precision": "street or intersection",
+    "archive_pin_wgs84": [
+      37.794159,
+      -122.406982
+    ],
+    "evidence": "An opposite-facing Clay streetscape. The pre-earthquake P24 looks east from a similar vantage, with different foreground buildings.",
+    "source": "https://opensfhistory.org/Display/wnp25.2383.jpg",
+    "scan": "https://opensfhistory.org/Download/wnp25.2383.jpg",
+    "credit": "OpenSFHistory/wnp25.2383 · Photographer Unknown  (Courtesy of a Private Collector)",
+    "file": "photos/P17.jpg",
+    "width": 1000,
+    "height": 670
+  },
+  {
+    "id": "P18",
+    "role": "Waverly comparison",
+    "date": "circa 1925",
+    "view": "Waverly Place just north of Clay Street, looking north",
+    "location_precision": "street or intersection",
+    "archive_pin_wgs84": [
+      37.794334,
+      -122.406876
+    ],
+    "evidence": "The left row has stacked iron balconies. The dated gable across Washington at the street’s far end is an independently visible route to the west holdout’s façade after expansion.",
+    "source": "https://opensfhistory.org/Display/wnp37.02568.jpg",
+    "scan": "https://opensfhistory.org/Download/wnp37.02568.jpg",
+    "credit": "OpenSFHistory/wnp37.02568 · Photographer Unknown  (Marilyn Blaisdell Collection / Courtesy of a Private Collector)",
+    "file": "photos/P18.jpg",
+    "width": 739,
+    "height": 1000
+  },
+  {
+    "id": "P19",
+    "role": "Waverly comparison",
+    "date": "Jun 27, 1938",
+    "view": "Waverly Place at Clay Street, looking north",
+    "location_precision": "street or intersection",
+    "archive_pin_wgs84": [
+      37.794209,
+      -122.40686
+    ],
+    "evidence": "The cable car crosses the foreground. The row of projecting balconies and dated gable at the end of the street recur in P18. The circa-1900 P23 gives a similar viewpoint with different foreground buildings.",
+    "source": "https://opensfhistory.org/Display/wnp28.1030.jpg",
+    "scan": "https://opensfhistory.org/Download/wnp28.1030.jpg",
+    "credit": "OpenSFHistory/wnp28.1030 · Photographer Unknown  (Courtesy of a Private Collector)",
+    "file": "photos/P19.jpg",
+    "width": 812,
+    "height": 1000
+  },
+  {
+    "id": "P20",
+    "role": "Waverly comparison",
+    "date": "Sep 1962",
+    "view": "Waverly Place at Washington Street, looking south",
+    "location_precision": "street or intersection",
+    "archive_pin_wgs84": [
+      37.795067,
+      -122.407013
+    ],
+    "evidence": "A portrait with a reverse view down Waverly. Compare upper stories and balcony attachment points on the west row with P18 and P19. Individual bays require closer checking.",
+    "source": "https://opensfhistory.org/Display/wnp25.4693.jpg",
+    "scan": "https://opensfhistory.org/Download/wnp25.4693.jpg",
+    "credit": "OpenSFHistory/wnp25.4693 · Photographer Unknown  (Courtesy of a Private Collector)",
+    "file": "photos/P20.jpg",
+    "width": 673,
+    "height": 1000
+  },
+  {
+    "id": "P21",
+    "role": "Jackson comparison",
+    "date": "Oct 19, 1915",
+    "view": "Jackson Street west of Grant Avenue, looking east",
+    "location_precision": "street or intersection",
+    "archive_pin_wgs84": [
+      37.795979,
+      -122.407166
+    ],
+    "evidence": "The archival DPW label and catalog locate the 1915 street work. This is a nearby streetscape with similar masonry and awnings. Check individual façades before accepting a link to another street.",
+    "source": "https://opensfhistory.org/Display/wnp36.01041.jpg",
+    "scan": "https://opensfhistory.org/Download/wnp36.01041.jpg",
+    "credit": "OpenSFHistory/wnp36.01041 · DPW Horace Chaffee  (SF Department of Public Works / Courtesy of a Private Collector)",
+    "file": "photos/P21.jpg",
+    "width": 1000,
+    "height": 705
+  },
+  {
+    "id": "P22",
+    "role": "Jackson comparison",
+    "date": "Jul 21, 1960",
+    "view": "Jackson Street at Grant Avenue, looking east",
+    "location_precision": "street or intersection",
+    "archive_pin_wgs84": [
+      37.796005,
+      -122.406685
+    ],
+    "evidence": "The Grandview Theatre and adjacent shopfronts are visible downhill. The scene shares a Bay Bridge view and steep grade with Washington Street, useful as a deliberate wrong-street comparison.",
+    "source": "https://opensfhistory.org/Display/wnp27.5184.jpg",
+    "scan": "https://opensfhistory.org/Download/wnp27.5184.jpg",
+    "credit": "OpenSFHistory/wnp27.5184 · Photographer Unknown  (Courtesy of a Private Collector)",
+    "file": "photos/P22.jpg",
+    "width": 1000,
+    "height": 562
+  },
+  {
+    "id": "P23",
+    "role": "Pre-earthquake control",
+    "date": "circa 1900",
+    "view": "Waverly Place at Clay Street, looking north",
+    "location_precision": "street or intersection",
+    "archive_pin_wgs84": [
+      37.794182,
+      -122.406845
+    ],
+    "evidence": "An early view of the same approach as P19. Compare the wraparound balconies at left in this image with the later brick corner. Use the foreground building pair as a nonmatch.",
+    "source": "https://opensfhistory.org/Display/wnp27.6781.jpg",
+    "scan": "https://opensfhistory.org/Download/wnp27.6781.jpg",
+    "credit": "OpenSFHistory/wnp27.6781 · Willard E. Worden  (Courtesy of a Private Collector)",
+    "file": "photos/P23.jpg",
+    "width": 817,
+    "height": 1000
+  },
+  {
+    "id": "P24",
+    "role": "Pre-earthquake control",
+    "date": "Mar 12, 1906",
+    "view": "Clay Street at Waverly Place, looking east",
+    "location_precision": "street or intersection",
+    "archive_pin_wgs84": [
+      37.794186,
+      -122.406982
+    ],
+    "evidence": "The foreground pre-fire corner and bay-front buildings differ from the post-fire P17. The Bancroft Library independently catalogs a March 1906 view along the same block.",
+    "source": "https://opensfhistory.org/Display/wnp15.703.jpg",
+    "scan": "https://opensfhistory.org/Download/wnp15.703.jpg",
+    "credit": "OpenSFHistory/wnp15.703 · Photographer Unknown  (Courtesy of a Private Collector)",
+    "file": "photos/P24.jpg",
+    "width": 1000,
+    "height": 807
+  }
+]

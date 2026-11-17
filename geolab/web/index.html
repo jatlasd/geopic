@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Historical Photo Geolocation Lab</title>
+  <link rel="stylesheet" href="/static/lab.css">
+  <script src="/static/lab.js" defer></script>
+</head>
+<body>
+  <header class="top">
+    <div>
+      <h1>Photo geolocation lab</h1>
+      <p>San Francisco Chinatown · Visual references across time</p>
+    </div>
+    <button id="upload-button" type="button">Add photo</button>
+    <input id="upload" type="file" accept="image/jpeg,image/png,image/webp" hidden>
+  </header>
+  <div class="workspace">
+    <aside class="library" aria-labelledby="collection-title">
+      <div class="section-head">
+        <h2 id="collection-title">All photos</h2>
+        <span id="photo-count"></span>
+      </div>
+      <p class="muted sidebar-help">Pick any photo to look for a match.</p>
+      <div id="photos" class="photos"></div>
+    </aside>
+
+    <main id="workbench">
+      <section class="query" aria-labelledby="query-title">
+        <div class="section-head">
+          <div>
+            <h2 id="query-title">Search for P06</h2>
+            <p id="truth-status" class="muted">Archive location held back</p>
+          </div>
+          <button id="run" class="primary" type="button" disabled>Run comparison</button>
+        </div>
+        <div id="comparison" class="comparison" role="group" aria-label="Comparison runs"></div>
+        <div class="actions">
+          <button id="review-bridge" type="button" hidden>Review P05 for admission</button>
+          <label id="withhold-option" class="check" hidden>
+            <input id="withhold" type="checkbox"> Withhold 744 Washington from P05
+          </label>
+          <button id="reveal" class="quiet" type="button" disabled>Reveal archive location</button>
+        </div>
+        <p id="notice" class="notice" role="status" aria-live="polite">Loading the collection…</p>
+        <section id="truth" class="truth" hidden aria-label="Archive ground truth"></section>
+      </section>
+
+      <section aria-labelledby="inspection-title" class="inspection">
+        <div class="section-head">
+          <div>
+            <h2 id="inspection-title">Match inspection</h2>
+            <p id="pair-label" class="muted"></p>
+          </div>
+          <div class="actions">
+            <button id="zoom" type="button" aria-pressed="false" disabled>Zoom to regions</button>
+            <button id="points" type="button" aria-pressed="true" disabled>Match points</button>
+            <button id="regions" type="button" aria-pressed="false" disabled>Indexed cells</button>
+          </div>
+        </div>
+        <div class="pair">
+          <figure>
+            <figcaption id="query-caption">Query</figcaption>
+            <div id="query-image" class="scan"><p>Loading photo…</p></div>
+          </figure>
+          <figure>
+            <figcaption id="reference-caption">Reference</figcaption>
+            <div id="reference-image" class="scan"><p>Select a candidate to compare two photos.</p></div>
+          </figure>
+        </div>
+        <div id="evidence" class="evidence"></div>
+      </section>
+    </main>
+
+    <aside class="inspector" aria-label="Candidates and geographic evidence">
+      <section aria-labelledby="candidates-title" class="candidate-section">
+        <div class="section-head">
+          <h2 id="candidates-title">Candidates</h2>
+          <span id="candidate-count"></span>
+        </div>
+        <div id="candidates" class="candidates"><p class="muted">Run a comparison to rank the references.</p></div>
+      </section>
+      <section aria-labelledby="network-title" class="network">
+        <div class="section-head">
+          <h2 id="network-title">Reference network</h2>
+            <span id="reference-count"></span>
+        </div>
+        <p class="muted sidebar-help" id="reference-help"></p>
+        <div id="estimate"></div>
+        <div id="map"></div>
+        <ul id="references" class="references"></ul>
+      </section>
+    </aside>
+  </div>
+</body>
+</html>

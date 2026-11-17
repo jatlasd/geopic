@@ -1,0 +1,14 @@
+{
+  "bridge_review": {
+    "query": "P05",
+    "reference": "P01",
+    "query_box": [0.01, 0.02, 0.16, 0.51],
+    "reference_box": [0.72, 0.02, 0.99, 0.46],
+    "note": "At 900 Grant Avenue the horizontal brick recesses wrap the northeast corner. P01 looks north and shows part of the Washington Street face. P05 looks east and shows that face at the far left."
+  },
+  "withheld_region": {
+    "photo": "P05",
+    "box": [0.29, 0.33, 0.46, 0.66],
+    "label": "744 Washington and adjacent sign"
+  }
+}
